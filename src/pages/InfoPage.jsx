@@ -20,12 +20,11 @@ export default function InfoPage() {
               <path d="M9,2A3,3 0 0,1 12,5A3,3 0 0,1 9,8A3,3 0 0,1 6,5A3,3 0 0,1 9,2M9,10.5C11.33,10.5 15,11.67 15,14V16.5H3V14C3,11.67 6.67,10.5 9,10.5Z" />
             </svg>
           </div>
-          <div className="text-center">
-            <p className="text-lg font-body font-semibold text-red-600">Masterklass boshlanishi vaqti:</p>
-            <p className="text-lg font-heading font-bold text-red-600">20-21-Avgust 20:00 da</p>
+         <div className="text-center">
+            <p className="text-lg font-body font-semibold text-red-600">QIYMATI<span className="font-bold text-xl">100$ </span>DARSNI PASTDAGI TUGMANI BOSIB BEPUL QO'LGA KIRITING!</p>
           </div>
           <div className="w-5 h-5 text-red-600">
-            <svg viewBox="0 0 24 24" fill="currentColor" className="w-full h-full">
+            <svg viewBox="0 0 24 24" fill="currentColor" className=" h-full">
               <path d="M9,2A3,3 0 0,1 12,5A3,3 0 0,1 9,8A3,3 0 0,1 6,5A3,3 0 0,1 9,2M9,10.5C11.33,10.5 15,11.67 15,14V16.5H3V14C3,11.67 6.67,10.5 9,10.5Z" />
             </svg>
           </div>
