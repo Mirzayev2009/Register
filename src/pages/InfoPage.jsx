@@ -66,7 +66,7 @@ export default function InfoPage() {
             onClick={handleRegistration}
             className="w-full h-20 bg-red-600 hover:bg-red-700 text-white rounded-tl-lg rounded-br-lg font-semibold text-lg shadow-lg transition-colors duration-200"
           >
-            Bepul ro'yxatdan o'tish
+            Bepul darsni olish!
           </Button>
         </div>
 
@@ -109,7 +109,7 @@ export default function InfoPage() {
             onClick={handleRegistration}
             className="w-full bg-red-600 hover:bg-red-700 h-20 text-white py-4 px-6 rounded-tl-lg rounded-br-lg font-semibold text-lg shadow-lg transition-colors duration-200"
           >
-            Masterklassga ro'yxatdan o'tish
+            Bepul darsni olish!
           </Button>
         </div>
       </div>
