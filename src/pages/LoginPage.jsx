@@ -80,6 +80,7 @@ const LoginPage = () => {
                   <option value="+996">🇰🇬 Kyrgyzstan (+996)</option>
                   <option value="+7">🇰🇿 Kazakhstan (+7)</option>
                   <option value="+7">🇷🇺 Russia (+7)</option>
+                  <option value="+1">🇺🇸 USA (+1)</option> {/* ✅ Added USA */}
                 </select>
                 <Input
                   id="phone"
